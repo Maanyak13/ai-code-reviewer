@@ -216,26 +216,6 @@ Supported languages include:
 
 ---
 
-# 📸 Screenshots
-
-## Home Page
-
-_Add screenshot here_
-
----
-
-## Code Review Output
-
-_Add screenshot here_
-
----
-
-## Performance Evaluation
-
-_Add screenshot here_
-
----
-
 # 👨‍💻 Author
 
 **Maanya K**
