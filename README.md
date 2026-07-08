@@ -244,11 +244,7 @@ Bachelor of Engineering (Artificial Intelligence & Data Science)
 
 M. S. Ramaiah Institute of Technology
 
-GitHub: https://github.com/your-username
 
-LinkedIn: https://linkedin.com/in/your-linkedin-profile
-
----
 
 # 📄 License
 
